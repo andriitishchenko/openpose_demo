@@ -1,4 +1,4 @@
-# openpose_demo
+# openpose_demo MACOS 10.15
 openpose demo  https://github.com/CMU-Perceptual-Computing-Lab/openpose
 
 ### Install libs and download models
