@@ -1,5 +1,8 @@
 # openpose_demo MACOS 10.15
-openpose demo  https://github.com/CMU-Perceptual-Computing-Lab/openpose
+openpose project  https://github.com/CMU-Perceptual-Computing-Lab/openpose
+
+* build_whole.zip build: CPU_ONLY, PYTHON
+* openpose_demo.zip build: cleaned build folder + scripts
 
 ### Install libs and download models
 ```sh
