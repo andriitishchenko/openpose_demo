@@ -1,4 +1,11 @@
-# openpose_demo MACOS 10.15
+
+# UBUNTU 18.04
+https://colab.research.google.com/drive/11TV-NuwJqV_USY0Kj5a6Dnl9NIy4JsMU?usp=sharing
+
+
+
+
+# MACOS 10.15
 openpose project  https://github.com/CMU-Perceptual-Computing-Lab/openpose
 
 * build_whole.zip build: CPU_ONLY, PYTHON
@@ -14,5 +21,8 @@ openpose project  https://github.com/CMU-Perceptual-Computing-Lab/openpose
 ./demo.sh
 ```
 
-### build without make a love
+### check this
 https://gist.github.com/andriitishchenko/86b93dd8c352f659ee5d402445fd9036
+
+
+
