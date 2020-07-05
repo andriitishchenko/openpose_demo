@@ -14,7 +14,7 @@ openpose project  https://github.com/CMU-Perceptual-Computing-Lab/openpose
 ./demo.sh
 ```
 
-### build without make a love
+### check this
 https://gist.github.com/andriitishchenko/86b93dd8c352f659ee5d402445fd9036
 
 
