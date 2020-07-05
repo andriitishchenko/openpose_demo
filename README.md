@@ -5,7 +5,7 @@ https://colab.research.google.com/drive/11TV-NuwJqV_USY0Kj5a6Dnl9NIy4JsMU?usp=sh
 
 
 
-# openpose_demo MACOS 10.15
+# MACOS 10.15
 openpose project  https://github.com/CMU-Perceptual-Computing-Lab/openpose
 
 * build_whole.zip build: CPU_ONLY, PYTHON
